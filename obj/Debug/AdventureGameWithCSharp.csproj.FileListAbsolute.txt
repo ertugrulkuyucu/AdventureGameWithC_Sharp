@@ -1,0 +1,7 @@
+C:\Users\Ertugrul\source\repos\AdventureGameWithCSharp\AdventureGameWithCSharp\obj\Debug\AdventureGameWithCSharp.csprojAssemblyReference.cache
+C:\Users\Ertugrul\source\repos\AdventureGameWithCSharp\AdventureGameWithCSharp\obj\Debug\AdventureGameWithCSharp.csproj.CoreCompileInputs.cache
+C:\Users\Ertugrul\source\repos\AdventureGameWithCSharp\AdventureGameWithCSharp\bin\Debug\AdventureGameWithCSharp.exe.config
+C:\Users\Ertugrul\source\repos\AdventureGameWithCSharp\AdventureGameWithCSharp\bin\Debug\AdventureGameWithCSharp.exe
+C:\Users\Ertugrul\source\repos\AdventureGameWithCSharp\AdventureGameWithCSharp\bin\Debug\AdventureGameWithCSharp.pdb
+C:\Users\Ertugrul\source\repos\AdventureGameWithCSharp\AdventureGameWithCSharp\obj\Debug\AdventureGameWithCSharp.exe
+C:\Users\Ertugrul\source\repos\AdventureGameWithCSharp\AdventureGameWithCSharp\obj\Debug\AdventureGameWithCSharp.pdb
